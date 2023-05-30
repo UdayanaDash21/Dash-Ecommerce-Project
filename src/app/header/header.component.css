@@ -1,0 +1,67 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav h1 {
+  color: blueviolet;
+  margin: 0;
+  font-size: 35px;
+}
+.nav .nav-search {
+  flex: 1;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* margin-top: 5px; */
+}
+.nav .nav-search input {
+  flex: 1;
+  color: blueviolet;
+  border: 2px solid blueviolet;
+  height: 41px;
+  border-right: none;
+}
+.nav .nav-search button {
+  color: blueviolet;
+  border: 2px solid blueviolet;
+  height: 41px;
+  cursor: pointer;
+}
+.nav ul {
+  display:inline-flex;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.nav ul li {
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 16px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+h1 a{
+  color: blueviolet;
+  text-decoration: none;
+}
+.sugestedSearch{
+  position: absolute !important;
+  top: 40px !important;
+  z-index: 10 !important;
+  display: list-item !important;
+  border: 1px solid #ddd !important;
+  background-color: #fff !important;
+  width: 500px !important;
+}
+
+.sugestedSearch li{
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+
+.sugestedSearch li a{
+  cursor: pointer;
+  color: blueviolet;
+}

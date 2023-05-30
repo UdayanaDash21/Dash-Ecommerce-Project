@@ -1,0 +1,17 @@
+table{
+    text-align: left;
+    color: blueviolet; 
+    border-collapse: collapse; 
+  }
+  table td,table th{
+  border: 1px solid blueviolet;
+  padding: 10px;
+  min-width: none;
+  }
+  img{
+      height: 100px;
+      width: 100px;
+  }
+  .adjust-update-link{
+    margin-left: 10px;
+  }

@@ -1,0 +1,21 @@
+.product-img{
+    width: 100%;
+    object-fit: contain;
+    height: 400px;
+}
+.product-color{
+    border: 3px solid #000;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.quantity-group{
+    margin-top: 20px;
+}
+.quantity-group button{
+    padding:10px;
+}
+.quantity-group input{
+   padding: 10px;
+   width: 40px;
+}

@@ -1,0 +1,304 @@
+{
+  "seller": [
+    {
+      "name": "Udyana Dash",
+      "email": "dashudayan@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sidhu Moosewala",
+      "email": "punjabiTerrorist@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Gudu",
+      "password": "Abc@-1234",
+      "email": "jrnrgnrn@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Bruce Wane",
+      "password": "ghj",
+      "email": "brucewane@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "UDAYANA DASH ",
+      "password": "ccfghj",
+      "email": "dashudayan2@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "tilu",
+      "password": "12345",
+      "email": "tilu@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "EA BC",
+      "password": "ccfghj",
+      "email": "brucewane@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Udayana Dash",
+      "password": "123456",
+      "email": "dashudayan@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Udayana",
+      "password": "sdfgh",
+      "email": "dashudayan2@gmail.com",
+      "id": 22
+    },
+    {
+      "email": "dashudayan@gmail.com",
+      "password": "ghj",
+      "id": 24
+    },
+    {
+      "name": "Udayana Dash",
+      "password": "Abc@1234",
+      "email": "dashudayan@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Bishruti Bedhie",
+      "password": "123456",
+      "email": "bishrutibedhie@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Udayana",
+      "password": "123456",
+      "email": "dash@user.com",
+      "id": 27
+    },
+    {
+      "name": "Udayana",
+      "password": "123456",
+      "email": "dashudayan2@gmail.com",
+      "id": 28
+    }
+  ],
+  "products": [
+    {
+      "name": "Vivo V25",
+      "price": "38000",
+      "category": "Mobile",
+      "color": "Off White",
+      "description": "Vivo Mobile",
+      "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v25-pro-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "40000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Hp Laptop",
+      "image": "https://5.imimg.com/data5/ME/TB/MY-13208987/hp-laptop-500x500.jpg",
+      "id": 6
+    },
+    {
+      "name": "Apple Macbook 3",
+      "price": "150000",
+      "category": "Premium Laptop",
+      "color": "Silver",
+      "description": "Apple Macbook 3",
+      "image": "data:image/jpeg;base64,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",
+      "id": 7
+    },
+    {
+      "name": "Apple Iphone 13",
+      "price": "130000",
+      "category": "Premium Mobile",
+      "color": "Off White",
+      "description": "Apple Mobile",
+      "image": "https://www.jiomart.com/images/product/420x420/491997700/apple-iphone-13-128-gb-starlight-digital-o491997700-p590798551-3-202208221207.jpeg",
+      "id": 8
+    },
+    {
+      "name": "Moto Edge 40",
+      "price": "29999",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Motorola Mobile with all the new features...",
+      "image": "https://motorolain.vtexassets.com/arquivos/ids/158169-800-auto?width=800&height=auto&aspect=true",
+      "id": 9
+    },
+    {
+      "name": "Asus Zenfone 9",
+      "price": "70000",
+      "category": "Mobile",
+      "color": "Bedge",
+      "description": "Asus Mobile",
+      "image": "https://fr.mytrendyphone.be/images/Asus-Zenfone-9-128GB-White-4711081826194-05092022-01-p.webp",
+      "id": 10
+    },
+    {
+      "name": "Oneplus 11",
+      "price": "70000",
+      "category": "Mobile",
+      "color": "Green",
+      "description": "Oneplus Mobile with all new stock android feel",
+      "image": "data:image/jpeg;base64,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",
+      "id": 11
+    },
+    {
+      "name": "Google Pixel 7A",
+      "price": "40000",
+      "category": "Mobile",
+      "color": "Off White",
+      "description": "Google Mobile with mega processor",
+      "image": "https://m.media-amazon.com/images/I/51f4A6Tr8zL._SX522_.jpg",
+      "id": 12
+    },
+    {
+      "name": "Adidas Hiker Choice",
+      "price": "10000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Adidas Hiking shoes",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/10/WU/TQ/UF/17476908/product-jpeg-250x250.jpg",
+      "id": 13
+    },
+    {
+      "name": "Adidas Sc3",
+      "price": "13000",
+      "category": "Shoes",
+      "color": "Mix-grey",
+      "description": "Adidas Casual Sneaker ",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/88d9509f54784030b0b3af7700912588_9366/SolderRun_M_Black_GC0961_01_standard.jpg",
+      "id": 14
+    },
+    {
+      "name": "Ford Toy Car",
+      "price": "2500",
+      "category": "toy",
+      "color": "brown",
+      "description": "It is a toy car which replicate the Ford Off-roading vehicle",
+      "image": "https://staranddaisy.in/wp-content/uploads/2023/03/lfc_j21m_p_grey_1.jpg",
+      "id": 15
+    },
+    {
+      "name": "Jenkins Boat ES6",
+      "price": "40000",
+      "category": "toy",
+      "color": "green",
+      "description": "Remote controlled boat mainly built for fun in waterbodies",
+      "image": "https://m.media-amazon.com/images/I/81Ur5G4SAFL._SL1500_.jpg",
+      "id": 16
+    }
+  ],
+  "users": [
+    {},
+    {
+      "name": "Udayana Dash",
+      "email": "dash@user.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Udayana",
+      "email": "gudu@user.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Udayana Dash",
+      "email": "dashudayan@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Udayana Dash",
+      "email": "dashudayan@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Tony Ja",
+      "email": "tony@user.com",
+      "password": "123456",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "40000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Hp Laptop",
+      "image": "https://5.imimg.com/data5/ME/TB/MY-13208987/hp-laptop-500x500.jpg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": {
+        "name": "Udayana Dash",
+        "email": "dashudayan@gmail.com",
+        "password": "123456",
+        "id": 3
+      },
+      "id": 2
+    },
+    {
+      "name": "Hp Laptop",
+      "price": "40000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Hp Laptop",
+      "image": "https://5.imimg.com/data5/ME/TB/MY-13208987/hp-laptop-500x500.jpg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": {
+        "name": "Udayana Dash",
+        "email": "dashudayan@gmail.com",
+        "password": "123456",
+        "id": 3
+      },
+      "id": 3
+    },
+    {
+      "name": "Apple Macbook 3",
+      "price": "150000",
+      "category": "Premium Laptop",
+      "color": "Silver",
+      "description": "Apple Macbook 3",
+      "image": "data:image/jpeg;base64,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",
+      "quantity": 1,
+      "productId": 7,
+      "userId": {
+        "name": "Udayana Dash",
+        "email": "dashudayan@gmail.com",
+        "password": "123456",
+        "id": 3
+      },
+      "id": 4
+    },
+    {
+      "name": "Moto Edge 40",
+      "price": "29999",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Motorola Mobile with all the new features...",
+      "image": "https://motorolain.vtexassets.com/arquivos/ids/158169-800-auto?width=800&height=auto&aspect=true",
+      "quantity": 1,
+      "productId": 9,
+      "userId": {
+        "name": "Udayana Dash",
+        "email": "dashudayan@gmail.com",
+        "password": "123456",
+        "id": 3
+      },
+      "id": 5
+    }
+  ],
+  "orders": []
+}
